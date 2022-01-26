@@ -1,7 +1,8 @@
 ![Title](img/title.png)
 # Data-cleaning-pandas
-Limpieza y análisis de datos
-Temática: Archivo en formato csv con variedad de datos acerca de ataques de tiburones a nivel mundial.
+
+###### Temática: 
+Limpieza y análisis de datos: Archivo en formato csv con variedad de datos acerca de ataques de tiburones a nivel mundial.
 Se ha realizado un trabajo de exploración de los datos y posterior visualización con gráficos utilizando librerías.
 
  * Lenguaje: Python 🐍
