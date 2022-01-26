@@ -28,4 +28,4 @@ Limpieza y análisis de datos
  * https://pypi.org/
 
 
-![Title](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-download.com%2F9988-python-logo-download.html&psig=AOvVaw0umgN_tIzcsGGWSb1dz_uU&ust=1643288783339000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi_gfW9z_UCFQAAAAAdAAAAABAJ)
+![Image text](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-download.com%2F9988-python-logo-download.html&psig=AOvVaw0umgN_tIzcsGGWSb1dz_uU&ust=1643288783339000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi_gfW9z_UCFQAAAAAdAAAAABAJ)
